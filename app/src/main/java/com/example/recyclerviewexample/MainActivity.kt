@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         Student("아이유", "2030125100", EGender.FEMAILE, 5, 5),
         Student("조정석", "2030125100", EGender.MALE, 6, 4),
         Student("한가인", "2030125100", EGender.FEMAILE, 10, 0),
-        Student("이승철", "2030125100", EGender.MALE, 10, 0),
+        Student("신유환", "2030125100", EGender.MALE, 10, 0),
     )
 
     lateinit var binding : ActivityMainBinding
